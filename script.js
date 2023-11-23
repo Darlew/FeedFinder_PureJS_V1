@@ -13,7 +13,7 @@ function initMap() {
 		{
 			name: "The Newcastle Hotel",
 			coords: { lat: -32.9156, lng: 151.7488 },
-			content: "<h1>" + this.name + "</h1>",
+			content: "<h1>The Newcastle Hotel</h1>",
 		},
 		{
 			coords: { lat: -32.91756662176913, lng: 151.7485167530358 },
